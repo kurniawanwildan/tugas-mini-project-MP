@@ -94,14 +94,11 @@ TransaksiError       TransaksiSuccess
 ### Langkah
 
 ```bash
-# 1. Clone repository
-git clone https://github.com/[username]/dompetku.git
-cd dompetku
 
-# 2. Install dependencies
+# 1. Install dependencies
 flutter pub get
 
-# 3. Jalankan aplikasi
+# 2. Jalankan aplikasi
 flutter run
 ```
 
@@ -111,9 +108,7 @@ flutter run
 
 | Nama | NIM | Kontribusi |
 |------|-----|------------|
-| [Anggota 1] | [NIM] | Model data, Database Service (SQLite), Cubit & State |
-| [Anggota 2] | [NIM] | Halaman Beranda, Widget Kartu & Item Transaksi |
-| [Anggota 3] | [NIM] | Form Transaksi, Halaman Statistik & Grafik |
+| Wildan Taufik Kurniawan | 231011402472 | Semuanya|
 
 ---
 
@@ -123,8 +118,3 @@ flutter run
 
 **Pengeluaran:** Makanan, Transport, Belanja, Tagihan, Hiburan, Kesehatan, Pendidikan, Lainnya
 
----
-
-## 📄 Lisensi
-
-Proyek ini dibuat untuk keperluan tugas akademik.
